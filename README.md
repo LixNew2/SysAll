@@ -1,7 +1,7 @@
 # SysAll
 
 [![Downloads](https://static.pepy.tech/badge/sysall)](https://pepy.tech/project/sysall)
-[![Version](https://img.shields.io/pypi/v/sysall)]
+[![Version](https://img.shields.io/pypi/v/sysall)](https://pypi.org/project/sysall/)
 [![Python Version](https://img.shields.io/pypi/pyversions/sysall)](https://pypi.org/project/sysall/)
 
 SysAll is a library that aims to make it easier for python developers,
