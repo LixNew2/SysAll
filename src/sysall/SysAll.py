@@ -7,7 +7,7 @@ All this with functions that can be modified at will and in a single library.
 """
 
 __copyright__  = """
-Copyright (c) 2023 LixNew; lixnew2@gmail.com
+Copyright (c) 2024 LixNew; lixnew2@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
