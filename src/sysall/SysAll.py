@@ -7,7 +7,9 @@ All this with functions that can be modified at will and in a single library.
 """
 
 __copyright__  = """
-Copyright (c) 2023 LixNew; lixnew2@gmail.com
+MIT License 
+
+Copyright (c) 2024 LixNew; lixnew2@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -28,7 +30,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-__version__ = '1.1.11'
+__version__ = '1.1.14'
 __title__ = 'SysAll'
 __description__ = "Tools to facilitate the use/manipulation of data in the Windows environment"
 __autor__ = 'LixNew'

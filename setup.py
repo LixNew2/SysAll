@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
                     
 setup(
 name="sysall",
-version="1.1.13",
+version="1.1.14",
 author="LixNew",
 author_email="lixnew12@gmail.com",
 description="Tools to facilitate the use/manipulation of data in the Windows environment",
@@ -25,4 +25,3 @@ install_requires=[
     "requests"
 ],
 )
-
